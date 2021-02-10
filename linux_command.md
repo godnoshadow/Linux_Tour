@@ -146,3 +146,19 @@ tmux
 zsh 命令行补全
 
 exit 退出终端命令
+
+ctrl+shift+t 创建命令行端口
+
+ctrl+l 清除命令端口
+
+pwd 显示当前目录
+
+find 寻找文件名
+
+vi ~/.bashrc 修改环境变量（用户路径/系统路径）
+source ~/.bashrc 应用环境变量
+
+打开google命令：google-chrome
+打开typora命令：Typora
+打开文件管理器命令：nautilus
+
